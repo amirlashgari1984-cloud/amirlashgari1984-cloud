@@ -47,7 +47,7 @@ RobustScaler  ·  Anomaly Detection  ·  Feature Importance (ARI Stability)
 
 ## 🚀 Featured Project
 
-### 📦 ML-Powered Inventory Analytics Engine — v29
+### 📦 ML-Powered Inventory Analytics Engine
 > **SAP B1 · Python · HDBSCAN · Isolation Forest · Excel**
 
 An end-to-end automated analytics system connecting live to SAP via SQL, processing full inventory datasets, and generating a **23-sheet decision-ready Excel workbook** — with zero manual intervention.
