@@ -10,7 +10,7 @@
 
 I build **automated financial intelligence systems** that replace manual workflows with auditable, ML-powered pipelines — combining 10+ years of financial domain expertise with hands-on engineering.
 
-- 🏦 **10+ years** across banking (Bank Sepah), retail analytics (SSENSE), and ERP-driven finance (Tzanet)
+- 🏦 **10+ years** across banking, retail analytics, and ERP-driven finance
 - 🤖 **ML-powered** inventory optimization, anomaly detection, and demand forecasting systems
 - 📊 **End-to-end pipelines**: SAP → SQL → Python → Power BI / Excel
 - 🎯 Transitioning into **Quantitative Finance & Asset Management**
@@ -50,7 +50,7 @@ RobustScaler  ·  Anomaly Detection  ·  Feature Importance (ARI Stability)
 ### 📦 ML-Powered Inventory Analytics Engine
 > **SAP B1 · Python · HDBSCAN · Isolation Forest · Excel**
 
-An end-to-end automated analytics system connecting live to SAP via SQL, processing full inventory datasets, and generating a **23-sheet decision-ready Excel workbook** — with zero manual intervention.
+An end-to-end automated analytics system connecting live to SAP via SQL, processing full datasets, and generating a **23-sheet decision-ready Excel workbook** — with zero manual intervention.
 
 #### 🔬 What it covers:
 
@@ -97,6 +97,7 @@ Target →      Quantitative Analyst / Investment Data Analyst
 
 - 🎓 **MEng, Industrial Engineering** — Concordia University, Montréal
 - 🎓 **MSc, Public Administration** — IAU, Iran
+- 🎓 **Meng, Industrial Engineering** — IAU, Iran
 - 📜 **CFA Level I Candidate** — Exam: August 2026
 - 📜 Power BI · SQL Bootcamp · SAS Programming · Business Analysis (2023–2025)
 
