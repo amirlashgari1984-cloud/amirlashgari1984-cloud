@@ -68,9 +68,9 @@ An end-to-end automated analytics system connecting live to SAP via SQL, process
 | **Cost Variance** | Cross-warehouse ItemCost drift with financial impact quantification |
 
 #### ⚡ Results:
-- **50–70% reduction** in reporting turnaround time
+- **~95% reduction** in reporting turnaround time (Fully automated)
 - **~25% improvement** in product profitability through data-driven action plans
-- **~95% data accuracy** through automated validation and control frameworks
+- **~100% data accuracy** through automated validation and control frameworks
 - **23 automated sheets** replacing hours of manual Excel work
 
 ---
